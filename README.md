@@ -1,5 +1,7 @@
 # AOL_DB - Online Retail Database Project
 
+Untuk file yang lebih lengkap harap kunjungi https://github.com/will702/AOL-Database-Technology dikarenakan file yang terlalu besar jika di zip saja
+
 A comprehensive data pipeline for processing, normalizing, and managing online retail data. This project includes data sampling, normalization, database import, and SQL utilities for managing a structured online retail database.
 
 ## Project Structure
